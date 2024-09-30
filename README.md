@@ -7,9 +7,9 @@ This is a [Next.js](https://nextjs.org/) project using the [Lepton AI](https://w
 1. Clone the repository and `cd` into the directory
 
    ```bash
-   git clone git@github.com:leptonai/nextjs-with-lepton.git my-nextjs-with-lepton
+   git clone https://github.com/Ian-soy/nextjs-with-ian-demo.git
    # or
-   git clone https://github.com/leptonai/nextjs-with-lepton.git my-nextjs-with-lepton
+   git clone https://github.com/Ian-soy/nextjs-with-ian-demo.git
 
    cd my-nextjs-with-lepton
    ```
