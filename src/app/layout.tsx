@@ -6,8 +6,8 @@ import {Header} from "@/app/components/Header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next.js With Lepton AI",
-  description: "A Next.js starter with the Lepton LLM API",
+  title: "Next.js With Antion AI",
+  description: "A Next.js starter with the Antion LLM API",
 };
 
 export default function RootLayout({
