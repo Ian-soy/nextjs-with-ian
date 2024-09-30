@@ -4,7 +4,7 @@ import { useChat } from 'ai/react';
 
 export default function Chat() {
   const { messages, input, handleInputChange, handleSubmit } = useChat({
-    initialInput: "Tell me a joke!"
+    initialInput: "Introduce me nextjs!"
   });
   
   return (
