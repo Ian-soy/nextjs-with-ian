@@ -12,7 +12,7 @@ export const Header = () => {
         <span>
           <span className="text-gray-500 dark:text-gray-400 mr-1">Powered by</span>
           <a href="https://www.lepton.ai/"
-           target="_blank" className="font-semibold hover:underline" rel="noreferrer">Lepton AI
+           target="_blank" className="font-semibold hover:underline" rel="noreferrer">Antion AI
           </a>
         </span>
       </div>
